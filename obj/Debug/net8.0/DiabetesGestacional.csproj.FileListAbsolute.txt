@@ -1,0 +1,15 @@
+C:\Users\user\Documents\gravidez\DiabetesGestacional\bin\Debug\net8.0\DiabetesGestacional.exe
+C:\Users\user\Documents\gravidez\DiabetesGestacional\bin\Debug\net8.0\DiabetesGestacional.deps.json
+C:\Users\user\Documents\gravidez\DiabetesGestacional\bin\Debug\net8.0\DiabetesGestacional.runtimeconfig.json
+C:\Users\user\Documents\gravidez\DiabetesGestacional\bin\Debug\net8.0\DiabetesGestacional.dll
+C:\Users\user\Documents\gravidez\DiabetesGestacional\bin\Debug\net8.0\DiabetesGestacional.pdb
+C:\Users\user\Documents\gravidez\DiabetesGestacional\obj\Debug\net8.0\DiabetesGestacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\gravidez\DiabetesGestacional\obj\Debug\net8.0\DiabetesGestacional.AssemblyInfoInputs.cache
+C:\Users\user\Documents\gravidez\DiabetesGestacional\obj\Debug\net8.0\DiabetesGestacional.AssemblyInfo.cs
+C:\Users\user\Documents\gravidez\DiabetesGestacional\obj\Debug\net8.0\DiabetesGestacional.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\gravidez\DiabetesGestacional\obj\Debug\net8.0\DiabetesGestacional.sourcelink.json
+C:\Users\user\Documents\gravidez\DiabetesGestacional\obj\Debug\net8.0\DiabetesGestacional.dll
+C:\Users\user\Documents\gravidez\DiabetesGestacional\obj\Debug\net8.0\refint\DiabetesGestacional.dll
+C:\Users\user\Documents\gravidez\DiabetesGestacional\obj\Debug\net8.0\DiabetesGestacional.pdb
+C:\Users\user\Documents\gravidez\DiabetesGestacional\obj\Debug\net8.0\DiabetesGestacional.genruntimeconfig.cache
+C:\Users\user\Documents\gravidez\DiabetesGestacional\obj\Debug\net8.0\ref\DiabetesGestacional.dll
